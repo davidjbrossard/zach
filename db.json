@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "department": "Sales",
+      "title": "Manager",
+      "location": "Chicago"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "department": "Sales",
+      "title": "Employee",
+      "location": "Chicago"
+    },
+    {
+      "id": 3,
+      "name": "Carol",
+      "department": "Financo",
+      "title": "CFO",
+      "location": "New York"
+    }
+  ],
+  "documents": [
+     {
+       "id": 1,
+       "name": "Document #1",
+       "owner": "Alice",
+       "department": "Sales",
+       "status": "draft"
+     },
+     {
+       "id": 2,
+       "name": "Document #2",
+       "owner": "Alice",
+       "department": "Sales",
+       "status": "final"
+     },
+     {
+       "id": 3,
+       "name": "Document #3",
+       "owner": "Bob",
+       "department": "Sales",
+       "status": "published"
+     },
+     {
+       "id": 4,
+       "name": "Document #4",
+       "owner": "Carol",
+       "department": "Finance",
+       "status": "draft"
+     }
+  ]
+}
