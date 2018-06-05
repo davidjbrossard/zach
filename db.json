@@ -1,58 +1,51 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Alice",
-      "department": "Sales",
-      "title": "Manager",
-      "location": "Chicago"
-    },
-    {
-      "id": 2,
-      "name": "Bob",
-      "department": "Sales",
-      "title": "Employee",
-      "location": "Chicago"
-    },
-    {
-      "id": 3,
-      "name": "Carol",
-      "department": "Financo",
-      "title": "CFO",
-      "location": "New York"
-    }
-  ],
-  "documents": [
-     {
-       "id": 1,
-       "name": "Document #1",
-       "owner": "Alice",
-       "department": "Sales",
-       "status": "draft"
-     },
-     {
-       "id": 2,
-       "name": "Document #2",
-       "owner": "Alice",
-       "department": "Sales",
-       "status": "final"
-     },
-     {
-       "id": 3,
-       "name": "Document #3",
-       "owner": "Bob",
-       "department": "Sales",
-       "status": "published"
-     },
-     {
-       "id": 4,
-       "name": "Document #4",
-       "owner": "Carol",
-       "department": "Finance",
-       "status": "draft"
-     }
-  ],
-  "transactions": [{
+	"users": [{
+			"id": 1,
+			"name": "Alice",
+			"department": "Sales",
+			"title": "Manager",
+			"location": "Chicago"
+		}, {
+			"id": 2,
+			"name": "Bob",
+			"department": "Sales",
+			"title": "Employee",
+			"location": "Chicago"
+		}, {
+			"id": 3,
+			"name": "Carol",
+			"department": "Financo",
+			"title": "CFO",
+			"location": "New York"
+		}
+	],
+	"documents": [{
+			"id": 1,
+			"name": "Document #1",
+			"owner": "Alice",
+			"department": "Sales",
+			"status": "draft"
+		}, {
+			"id": 2,
+			"name": "Document #2",
+			"owner": "Alice",
+			"department": "Sales",
+			"status": "final"
+		}, {
+			"id": 3,
+			"name": "Document #3",
+			"owner": "Bob",
+			"department": "Sales",
+			"status": "published"
+		}, {
+			"id": 4,
+			"name": "Document #4",
+			"owner": "Carol",
+			"department": "Finance",
+			"status": "draft"
+		}
+	],
+	"transactions": [{
 			"index": 0,
 			"balance": "$2,684.17",
 			"description": "est quis labore id ut commodo aliqua cupidatat elit magna",
@@ -107,56 +100,6 @@
 			"balance": "$3,751.52",
 			"description": "minim veniam officia exercitation excepteur do sit sit sunt deserunt",
 			"date": "2017-09-03T02:18:09 +05:00"
-		}, {
-			"index": 11,
-			"balance": "$1,458.80",
-			"description": "officia voluptate est in anim ea ut ea labore qui",
-			"date": "2015-04-17T10:41:24 +05:00"
-		}, {
-			"index": 12,
-			"balance": "$3,957.34",
-			"description": "incididunt aute duis enim ad tempor tempor cupidatat reprehenderit exercitation",
-			"date": "2015-07-12T05:16:46 +05:00"
-		}, {
-			"index": 13,
-			"balance": "$2,000.84",
-			"description": "duis velit pariatur qui minim cupidatat nostrud commodo velit in",
-			"date": "2014-01-27T11:30:43 +06:00"
-		}, {
-			"index": 14,
-			"balance": "$3,141.46",
-			"description": "enim veniam ad fugiat excepteur veniam et sit laborum excepteur",
-			"date": "2017-06-27T11:40:20 +05:00"
-		}, {
-			"index": 15,
-			"balance": "$3,749.99",
-			"description": "commodo occaecat velit deserunt deserunt eu esse aliqua occaecat aliquip",
-			"date": "2014-06-12T02:59:30 +05:00"
-		}, {
-			"index": 16,
-			"balance": "$1,072.52",
-			"description": "sint nulla consequat voluptate adipisicing dolore esse ipsum nisi non",
-			"date": "2015-02-13T05:35:31 +06:00"
-		}, {
-			"index": 17,
-			"balance": "$1,967.75",
-			"description": "cillum sit excepteur do adipisicing esse Lorem laborum et sit",
-			"date": "2018-05-14T03:10:05 +05:00"
-		}, {
-			"index": 18,
-			"balance": "$2,490.43",
-			"description": "aute ea nostrud amet elit ipsum sint ullamco elit commodo",
-			"date": "2016-05-13T09:12:19 +05:00"
-		}, {
-			"index": 19,
-			"balance": "$2,270.75",
-			"description": "deserunt duis dolor minim aute quis id mollit veniam occaecat",
-			"date": "2015-09-07T10:05:42 +05:00"
-		}, {
-			"index": 20,
-			"balance": "$3,421.36",
-			"description": "reprehenderit eiusmod aliquip non incididunt eiusmod incididunt veniam commodo minim",
-			"date": "2018-02-19T07:02:48 +06:00"
 		}
 	]
 }
