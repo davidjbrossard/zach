@@ -4,7 +4,7 @@
 			"name": "Alice",
 			"department": "Sales",
 			"title": "Manager",
-			"location": "Illinois"
+			"location": "Illinois",
 			"roles":[{
 				"id": "manager",
 				"value": "manager"
