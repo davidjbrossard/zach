@@ -5,6 +5,10 @@
 			"department": "Sales",
 			"title": "Manager",
 			"location": "Illinois"
+			"roles":[{
+				"id": "manager",
+				"value": "manager"
+			}]
 		}, {
 			"id": 2,
 			"name": "Bob",
