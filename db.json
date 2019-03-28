@@ -1,6 +1,6 @@
 {
 	"users": [{
-			"id": "#test",
+			"id": 1,
 			"name": "Alice",
 			"department": "Sales",
 			"title": "Manager",
@@ -21,6 +21,12 @@
 			"department": "Finance",
 			"title": "CFO",
 			"location": "Iowa"
+		}, {
+			"id": "test#test",
+			"name": "Dan",
+			"department": "Finance",
+			"title": "CFO",
+			"location": "Indiana"
 		}
 	],
 	"documents": [{
