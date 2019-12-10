@@ -3,7 +3,7 @@
 			"id": 1,
 			"name": "Alice",
 			"department": "Sales",
-			"title": "Manager",
+			"title": "manager",
 			"location": "Illinois",
 			"roles":[{
 				"id": "manager",
@@ -13,7 +13,7 @@
 			"id": 2,
 			"name": "Bob",
 			"department": "Sales",
-			"title": "Employee",
+			"title": "employee",
 			"location": "Indiana"
 		}, {
 			"id": 3,
